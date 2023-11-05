@@ -17,4 +17,3 @@ npm start / npm run build
 
 ```
 
-For any other information react out to : praveennegiuk07@gmail.com
